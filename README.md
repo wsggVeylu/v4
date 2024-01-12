@@ -1,6 +1,6 @@
 <div align="center">
   <img src="public/assets/images/icon.png" />
-  <h1>Art Class v4</h1>
+  <h1>CoolStudyGames v4</h1>
 </div>
 A website with tons of games, apps, built-in proxy, emulator, and more fun goodies.
 
@@ -13,7 +13,7 @@ A website with tons of games, apps, built-in proxy, emulator, and more fun goodi
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/art-class/v4)
 [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/art-class/v4)
 
-> You currently cannot deploy Art Class to a static host, such as Netlify, Cloudflare Pages, or GitHub Pages. This feature is planned in a future update. Vercel does work - however, it is experimental and some things may not work as intended.
+> You currently cannot deploy CoolStudyGames to a static host, such as Netlify, Cloudflare Pages, or GitHub Pages. This feature is planned in a future update. Vercel does work - however, it is experimental and some things may not work as intended.
 
 ## Run locally
 
@@ -26,9 +26,9 @@ npm start # Start the bare server + serve static files
 ````
 
 ## Support
-Most issues can be answered by [opening an issue](https://github.com/art-class/v4/issues).
+Most issues can be answered by [opening an issue](https://github.com/wsggVeylu/v4/issues).
 
-You can also join our [Discord server](https://discord.gg/desmos) for more support, or to get links.
+You can also join our [Discord server](https://discord.gg/WwVApUs8EG) for more support, or to get links.
 
 ## Contributors
 
