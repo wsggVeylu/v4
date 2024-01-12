@@ -32,7 +32,7 @@ var tabPresets = {
         icon: 'https://ssl.gstatic.com/classroom/ic_product_classroom_32.png'
     },
     default: {
-        name: 'Art Class',
+        name: 'CoolStudyGames',
         icon: 'https://v4.artclass.site/assets/images/icon.png'
     }
 }
